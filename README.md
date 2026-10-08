@@ -4,6 +4,7 @@ GOS é um sistema operacional(versão atual) 16 bits, sendo feito em puro assemb
 
 • versão nova sempre em 1 ou 2 semanas(as vezes até menos)
 sei la oque colocar a mais kk
+
 comandos pra executar(qemu):
 
 0.4.x:

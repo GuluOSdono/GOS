@@ -28,3 +28,7 @@ qemu-system-i386 -drive format=raw,file=guluos-mp.img,if=floppy
 <img width="725" height="461" alt="image" src="https://github.com/user-attachments/assets/beb5a479-868b-4863-8264-6dbc08402afe" />
 <img width="646" height="458" alt="image" src="https://github.com/user-attachments/assets/6196b039-f463-4a74-91e5-f4cd9563c2ed" />
 
+e tambem, tem tipo um nome pra cada versao do guluos,do 16, 32, 64 bits:
+16 bits = guluos MR(modo real)
+32 bits = guluos MP(modo protegido)
+64 bits = guluos ML(modo longo)

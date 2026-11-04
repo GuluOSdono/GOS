@@ -32,3 +32,7 @@ e tambem, tem tipo um nome pra cada versao do guluos,do 16, 32, 64 bits:
 16 bits = guluos MR(modo real)
 32 bits = guluos MP(modo protegido)
 64 bits = guluos ML(modo longo)
+
+• Aviso!
+a partir que começar a ficar dahora mesmo o guluos, vou colocar o codigo fonte pra voces ai da uma olhada
+canal youtube: @guluos
